@@ -1,3 +1,4 @@
+workspace/migrations/*
 editor/migrations/*
 db.sqlite3
 *.pyc
